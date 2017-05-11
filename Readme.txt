@@ -14,7 +14,7 @@ Tableau : illumination correction with Tableau tool. [4]
 
 Meng : illumination correction with Meng's method [5]
 
-Water : illumination correction with our method
+Water : illumination correction with our method (ks for sampling rate: higher ks -> better performance, but slower speed)
 
 ACCV: illumination correction with Bako's method [6]
 
@@ -25,5 +25,5 @@ ACCV: illumination correction with Bako's method [6]
 [3] Abramoff, Michael D., Paulo J. Magalhaes, and Sunanda J. Ram. "Image processing with ImageJ."?Biophotonics international?11.7 (2004): 36-42.
 [4] Oliveira, Daniel M., and Rafael D. Lins. "Generalizing tableau to any color of teaching boards."?2010 International Conference on Pattern Recognition. IEEE, 2010.
 [5] Meng, Gaofeng, et al. "Nonparametric illumination correction for scanned document images via convex Hulls."?Pattern Analysis and Machine Intelligence, IEEE Transactions on?35.7 (2013): 1730-1743.
-[6] S. Bako, S. Darabi, E. Shechtman, J. Wang, K. Sunkavalli, and P. Sen,¡°Removing Shadows from Images of Documents,¡± Asian Conference on Computer Vision (ACCV 2016).
-.
+[6] S. Bako, S. Darabi, E. Shechtman, J. Wang, K. Sunkavalli, and P. Sen,Â¡Â°Removing Shadows from Images of Documents,Â¡Â± Asian Conference on Computer Vision (ACCV 2016).
+.
