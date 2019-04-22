@@ -2,10 +2,10 @@
 
 <div class="row">
   <div class="column">
-    <img src="examples/original_14_small.png" width="150" title="original">
+    <img src="examples/original_14_small.png" width="150" alt="original">
   </div>
   <div class="column">
-    <img src="examples/bako_14_small.png" width="150" title="bako">
+    <img src="examples/bako_14_small.png" width="150" alt="bako">
   </div>
 </div>
 
