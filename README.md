@@ -1,12 +1,15 @@
 # Shading-Removal
 
-<p align="center">
-  <img src="examples/original_14_small.png" width="150" title="original">
-  <figcaption>Original et al.</figcaption>
-  
-  <img src="examples/bako_14_small.png" width="150" title="bako">
-  <figcaption>Bako et al.</figcaption>
-</p>
+<div class="row">
+  <div class="column">
+    <img src="examples/original_14_small.png" width="150" title="original">
+    <figcaption>Original et al.</figcaption>
+  </div>
+  <div class="column">
+    <img src="examples/bako_14_small.png" width="150" title="bako">
+    <figcaption>Bako et al.</figcaption>
+  </div>
+</div>
 
 
 <figure>
