@@ -1,6 +1,6 @@
 # Shading-Removal
 
-<p>
+<p align="center">
   <img src="examples/original_14_small.png" width="150" title="original">
   <figcaption>Original et al.</figcaption>
   
