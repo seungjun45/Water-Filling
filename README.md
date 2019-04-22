@@ -6,10 +6,11 @@ Seungjun Jung, Muhammad Abul Hasan, and Changick Kim, "Water-Filling: An Efficie
 
 Project Funded by Hancom Inc.
 
-**********************Required***********************
-opencv3.0
-c++
+<h2> Requirements </h2>
+
+opencv 3.0 <br>
+c++ <br>
 
 **********************Note***********************
-Source Code Available, but do not use it without permission. (Patent Issue ... )
+Source Code Available, but do not use it without permission. (Patent Issue ... ) <br>
 Only Sample Results Available.
