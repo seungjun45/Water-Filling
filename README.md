@@ -3,12 +3,11 @@
 <figure>
   <img src="examples/original_14_small.png" width="150" title="original">
   <figcaption>Original et al.</figcaption>
-</figure>
-
-<figure>
+  
   <img src="examples/bako_14_small.png" width="150" title="bako">
   <figcaption>Bako et al.</figcaption>
 </figure>
+
 
 <figure>
   <img src="examples/kligler_14_small.png" width="150" title="kligler">
