@@ -1,7 +1,8 @@
 # Shading-Removal
 
 <p align="center">
-  <img src="examples/bako_14_small.png" width="350" title="hover text">
+  <img src="examples/bako_14_small.png" width="350" title="bako">
+  <figcaption>Bako et al.</figcaption>
   <img src="examples/bako_14_small.png" width="350" alt="accessibility text">
 </p>
 
