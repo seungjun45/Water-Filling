@@ -13,7 +13,6 @@
   <img src="examples/kligler_14_small.png" width="150" title="kligler">
   <figcaption>Kligler et al.</figcaption>
 </figure>
-
 <figure>
   <img src="examples/sternberg_14_small.png" width="150" title="sternberg">
   <figcaption>Sternberg et al.</figcaption>
