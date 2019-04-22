@@ -1,10 +1,10 @@
 # Shading-Removal
 
-<p align="center">
+<figure>
   <img src="examples/bako_14_small.png" width="350" title="bako">
   <figcaption>Bako et al.</figcaption>
   <img src="examples/bako_14_small.png" width="350" alt="accessibility text">
-</p>
+</figure>
 
 My second year project under advisor Prof. Changick Kim (2015.09~2016.03). The technique is for removing illumination distortions for camera captured document images. Project funded by Hancom company.
 
