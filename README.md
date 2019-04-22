@@ -3,41 +3,46 @@
 <div class="row">
   <div class="column">
     <img src="examples/original_14_small.png" width="150" alt="original">
+    <p>Original.</p>
   </div>
+  
   <div class="column">
     <img src="examples/bako_14_small.png" width="150" alt="bako">
+    <p>Bako et al.</p>
+  </div>
+  
+  <div class="column">
+    <img src="examples/kligler_14_small.png" width="150" alt="kligler">
+    <p>Kligler et al.</p>
+  </div>
+  
+  <div class="column">
+    <img src="examples/sternberg_14_small.png" width="150" alt="sternberg">
+    <p>Sternberg et al.</p>
+  </div>
+  
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="examples/tableau_14_small.png" width="150" alt="tableau">
+    <p>Tableau et al.</p>
+  </div>
+  <div class="column">
+    <img src="examples/zhang_14_small.png" width="150" alt="zhang">
+    <p>Zhang et al.</p>
+  </div>
+  <div class="column">
+    <img src="examples/ours_14_small.png" width="150" alt="water">
+    <p><b>Water-Filling.</b></p>
+  </div>
+  <div class="column">
+    <img src="examples/gt_14_small.png" width="150" alt="gt">
+    <p>GroundTruth</p>
   </div>
 </div>
 
 
-<figure>
-  <img src="examples/kligler_14_small.png" width="150" title="kligler">
-  <figcaption>Kligler et al.</figcaption>
-</figure>
-<figure>
-  <img src="examples/sternberg_14_small.png" width="150" title="sternberg">
-  <figcaption>Sternberg et al.</figcaption>
-</figure>
-
-<figure>
-  <img src="examples/tableau_14_small.png" width="150" title="tableau">
-  <figcaption>Tableau et al.</figcaption>
-</figure>
-
-<figure>
-  <img src="examples/zhang_14_small.png" width="150" title="zhang">
-  <figcaption>Zhang et al.</figcaption>
-</figure>
-
-<figure>
-  <img src="examples/ours_14_small.png" width="150" title="water">
-  <figcaption><b>Water-Filling.</b></figcaption>
-</figure>
-
-<figure>
-  <img src="examples/gt_14_small.png" width="150" title="gt">
-  <figcaption>GroundTruth</figcaption>
-</figure>
 
 
 My second year project under advisor Prof. Changick Kim (2015.09~2016.03). The technique is for removing illumination distortions for camera captured document images. Project funded by Hancom company.
