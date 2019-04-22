@@ -1,7 +1,7 @@
 # Shading-Removal
 
 <figure>
-  <img src="examples/bako_14_small.png" width="350" title="bako">
+  <img src="examples/bako_14_small.png" width="350" figcaption="bako">
   <figcaption>Bako et al.</figcaption>
   <img src="examples/bako_14_small.png" width="350" alt="accessibility text">
 </figure>
