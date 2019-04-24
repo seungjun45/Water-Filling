@@ -58,5 +58,6 @@ opencv 3.0 <br>
 c++ <br>
 
 **********************Note***********************
-Source Code Available, but do not use it without permission. (Patent Issue ... ) <br>
-Only Sample Results Available.
+Source Code Available, but do not use it (for industrial purpose) without permission. (Patent Issue ... ) <br>
+Please ask any question if you have : seungjun45@kaist.ac.kr <br>
+Sample Results are also Available.
