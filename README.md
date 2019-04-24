@@ -1,4 +1,4 @@
-# Shading-Removal
+# Water-Filling: An Efficient Algorithm for Digitized Document Shadow Removal
 
 <div class="row">
   <div class="column">
