@@ -42,7 +42,7 @@
   </div>
 </div>
 
-
+YOU WILL FIND THAT THE CODES ARE REALLY SIMPLE, BUT THE PERFORMANCE IS POWERFUL.
 
 My second year project under advisor Prof. Changick Kim (2015.09~2016.03). The technique is for removing illumination distortions for camera captured document images. Project funded by Hancom company.
 
