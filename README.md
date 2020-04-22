@@ -65,4 +65,4 @@ Sample Results are also Available.
 <br>
 <br>
 **********************Tips***********************
-(2020/04/22) For those who are interested in applying this method in printed colored documents (i.e., magazine), <a target = "_blank" href="https://github.com/seungjun45/Water-Filling/issues/2">"alexliyang"</a> suggests that spliting image channels would help improving performance.
+(2020/04/22) For those who are interested in applying this method in printed colored documents (i.e., magazine), <a target = "_blank" href="https://github.com/seungjun45/Water-Filling/issues/2">"alexliyang"</a> suggests that spliting image channels would help improving performance. (Thank you!)
