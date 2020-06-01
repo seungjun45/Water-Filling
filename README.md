@@ -57,6 +57,10 @@ Project Funded by Hancom Inc.
 
 opencv 3.0 <br>
 c++ <br>
+<br>
+<br>
+**********************Thanks***********************
+Thank you <a target = "_blank" href="https://www.csie.ntu.edu.tw/~cyy/publications/papers/Lin2020BAD.pdf">Yun-Hsuan Lin</a>, and <a target = "_blank" href="https://ieeexplore.ieee.org/abstract/document/9053378">Jian-Ren Wang</a> for citing my work!
 
 **********************Note***********************
 Source Code Available, but do not use it (for industrial purpose) without permission. (Patent Issue ... ) <br>
