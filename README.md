@@ -62,11 +62,11 @@ c++ <br>
 ### Thanks
 Thank you <a target = "_blank" href="https://www.csie.ntu.edu.tw/~cyy/publications/papers/Lin2020BAD.pdf">Yun-Hsuan Lin</a>, and <a target = "_blank" href="https://ieeexplore.ieee.org/abstract/document/9053378">Jian-Ren Wang</a> for citing my work!
 
-**********************Note***********************
+### Note
 Source Code Available, but do not use it (for industrial purpose) without permission. (Patent Issue ... ) <br>
 Please ask any question if you have : seungjun45@kaist.ac.kr <br>
 Sample Results are also Available.
 <br>
 <br>
-**********************Tips***********************
+### Tips
 (2020/04/22) For those who are interested in applying this method in printed colored documents (i.e., magazine), <a target = "_blank" href="https://github.com/seungjun45/Water-Filling/issues/2">"alexliyang"</a> suggests that spliting image channels would help improving performance. (Thank you!)
