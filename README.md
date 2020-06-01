@@ -59,7 +59,7 @@ opencv 3.0 <br>
 c++ <br>
 <br>
 <br>
-###Thanks
+### Thanks
 Thank you <a target = "_blank" href="https://www.csie.ntu.edu.tw/~cyy/publications/papers/Lin2020BAD.pdf">Yun-Hsuan Lin</a>, and <a target = "_blank" href="https://ieeexplore.ieee.org/abstract/document/9053378">Jian-Ren Wang</a> for citing my work!
 
 **********************Note***********************
