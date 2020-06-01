@@ -76,3 +76,6 @@ Sample Results are also Available.
 <br>
 ### Tips
 (2020/04/22) For those who are interested in applying this method in printed colored documents (i.e., magazine), <a target = "_blank" href="https://github.com/seungjun45/Water-Filling/issues/2">"alexliyang"</a> suggests that spliting image channels would help improving performance. (Thank you!)
+<br>
+<br>
+If you think the results are too bright, you can adjust brightness factor from 0.85 to lower! :)
