@@ -65,6 +65,9 @@ Thank you <a target = "_blank" href="https://www.csie.ntu.edu.tw/~cyy/publicatio
 In 2016 ACCV, Bako, and I talked that this field only gets a few public attention. Now I am glad that many people are showing interest on this (and on Bako's) work.
 <br><br>
 
+### About me
+I am not currently working on this field... :D
+
 ### Note
 Source Code Available, but do not use it (for industrial purpose) without permission. (Patent Issue ... ) <br>
 Please ask any question if you have : seungjun45@kaist.ac.kr <br>
